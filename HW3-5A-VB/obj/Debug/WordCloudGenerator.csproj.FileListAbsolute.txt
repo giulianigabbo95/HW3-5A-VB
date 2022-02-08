@@ -1,0 +1,23 @@
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\WordCloudGenerator\WordCloudGenerator\bin\Debug\WordCloudGenerator.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\WordCloudGenerator\WordCloudGenerator\bin\Debug\WordCloudGenerator.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\WordCloudGenerator\WordCloudGenerator\bin\Debug\WordCloudGenerator.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\WordCloudGenerator\WordCloudGenerator\bin\Debug\Dati\Black List.txt
+C:\Users\Gahab\source\repos\WordCloudGenerator\WordCloudGenerator\bin\Debug\Dati\Black List.txt
+C:\Users\Gahab\source\repos\WordCloudGenerator\WordCloudGenerator\bin\Debug\WordCloudGenerator.exe.config
+C:\Users\Gahab\source\repos\WordCloudGenerator\WordCloudGenerator\bin\Debug\WordCloudGenerator.exe
+C:\Users\Gahab\source\repos\WordCloudGenerator\WordCloudGenerator\bin\Debug\WordCloudGenerator.pdb
+C:\Users\Gahab\source\repos\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.csproj.AssemblyReference.cache
+C:\Users\Gahab\source\repos\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.Form1.resources
+C:\Users\Gahab\source\repos\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.Properties.Resources.resources
+C:\Users\Gahab\source\repos\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.csproj.GenerateResource.cache
+C:\Users\Gahab\source\repos\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\source\repos\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.exe
+C:\Users\Gahab\source\repos\WordCloudGenerator\WordCloudGenerator\obj\Debug\WordCloudGenerator.pdb
+C:\Users\Gahab\source\repos\WordCloudGenerator\WordCloudGenerator\bin\Debug\Dati\Costituzione della Repubblica Italiana e Statuti Costituzionali del Regno.txt

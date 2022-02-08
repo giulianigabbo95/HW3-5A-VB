@@ -1,0 +1,18 @@
+C:\Users\Gahab\Desktop\HW_NEW\HW3\Programmi\WordCloudGenerator\HW3-5A-CS\bin\Debug\Dati\Black List.txt
+C:\Users\Gahab\Desktop\HW_NEW\HW3\Programmi\WordCloudGenerator\HW3-5A-CS\bin\Debug\Dati\Costituzione della Repubblica Italiana e Statuti Costituzionali del Regno.txt
+C:\Users\Gahab\Desktop\HW_NEW\HW3\Programmi\WordCloudGenerator\HW3-5A-CS\obj\Debug\WordCloudGenerator.Form1.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW3\Programmi\WordCloudGenerator\HW3-5A-CS\obj\Debug\WordCloudGenerator.Properties.Resources.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW3\Programmi\WordCloudGenerator\HW3-5A-CS\obj\Debug\HW3-5A-CS.csproj.GenerateResource.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW3\Programmi\WordCloudGenerator\HW3-5A-CS\obj\Debug\HW3-5A-CS.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW3\Programmi\WordCloudGenerator\HW3-5A-CS\obj\Debug\WordCloudGenerator.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW3\Programmi\WordCloudGenerator\HW3-5A-CS\obj\Debug\WordCloudGenerator.pdb
+C:\Users\Gahab\Desktop\HW_NEW\HW3\Programmi\WordCloudGenerator\HW3-5A-CS\obj\Debug\HW3-5A-CS.csproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW3-5A-CS\HW3-5A-CS\bin\Debug\Dati\Black List.txt
+C:\Users\Gahab\Desktop\HW_NEW\HW3-5A-CS\HW3-5A-CS\bin\Debug\Dati\Costituzione della Repubblica Italiana e Statuti Costituzionali del Regno.txt
+C:\Users\Gahab\Desktop\HW_NEW\HW3-5A-CS\HW3-5A-CS\obj\Debug\HW3-5A-CS.csproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW3-5A-CS\HW3-5A-CS\obj\Debug\WordCloudGenerator.Form1.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW3-5A-CS\HW3-5A-CS\obj\Debug\WordCloudGenerator.Properties.Resources.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW3-5A-CS\HW3-5A-CS\obj\Debug\HW3-5A-CS.csproj.GenerateResource.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW3-5A-CS\HW3-5A-CS\obj\Debug\HW3-5A-CS.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW3-5A-CS\HW3-5A-CS\obj\Debug\WordCloudGenerator.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW3-5A-CS\HW3-5A-CS\obj\Debug\WordCloudGenerator.pdb
